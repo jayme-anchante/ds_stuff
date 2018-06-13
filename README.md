@@ -1,8 +1,16 @@
 # some data science stuff
 
-# Podcasts
+## Podcasts
 
 * some top 10 [link](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
+
+## Mentoring, education
+
+* [Galvanize EAD](https://www.galvanize.com/online/data-science-mentoring)
+
+## Containerization
+
+* [R on Kubernetes](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 ## Google alternatives
 [link](https://restoreprivacy.com/google-alternatives/)
