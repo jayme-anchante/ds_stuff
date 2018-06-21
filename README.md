@@ -27,3 +27,7 @@
 ## Loss functions
 
 * A friendly introduction to cross-entropy loss [link](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+
+## Feature engineering
+
+* Feature Engineering and Selection: A Practical Approach for Predictive Models [link](http://www.feat.engineering/)
