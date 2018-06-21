@@ -7,6 +7,7 @@
 ## Mentoring, education
 
 * [Galvanize EAD](https://www.galvanize.com/online/data-science-mentoring)
+* [Kaggle](https://www.kaggle.com/learn)
 
 ## Containerization
 
