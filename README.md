@@ -1,5 +1,11 @@
 # some data science stuff
 
+## Deep learning in the cloud
+
+* https://www.floydhub.com/
+* https://www.paperspace.com/ml
+* https://www.crestle.com/
+
 ## Podcasts
 
 * some top 10 [link](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
