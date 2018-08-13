@@ -6,6 +6,10 @@
 * https://www.paperspace.com/ml
 * https://www.crestle.com/
 
+## Set up GPU
+
+* https://towardsdatascience.com/tensorflow-jupyter-notebook-nvidia-diy-setup-473acfe5b0e
+
 ## cases
 
 * [Not hotdog](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
