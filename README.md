@@ -6,6 +6,14 @@
 * https://www.paperspace.com/ml
 * https://www.crestle.com/
 
+## cases
+
+* [Not hotdog](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+
+## Education
+
+* [fast.ai](http://www.fast.ai/)
+
 ## Podcasts
 
 * some top 10 [link](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
