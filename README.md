@@ -9,6 +9,7 @@
 ## Set up GPU
 
 * https://towardsdatascience.com/tensorflow-jupyter-notebook-nvidia-diy-setup-473acfe5b0e
+* [Manjaro setup with CUDA, cuDNN](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 
 ## cases
 
