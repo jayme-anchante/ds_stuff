@@ -38,6 +38,7 @@
 
 ## TensorFlow
 * TensorFlow.js [link](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
+* [Building mobile applications with tensorflow](https://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp)
 
 ## Reinforcemente Learning
 
