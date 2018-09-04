@@ -18,6 +18,7 @@
 ## Education
 
 * [fast.ai](http://www.fast.ai/)
+* [free mba](https://smart.ly/the-free-mb)
 
 ## Podcasts
 
