@@ -56,3 +56,7 @@
 ## Feature engineering
 
 * Feature Engineering and Selection: A Practical Approach for Predictive Models [link](http://www.feat.engineering/)
+
+## Deep learning
+
+* [How to rapidly test dozens of deep learning models in Python](https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531)
