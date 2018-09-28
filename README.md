@@ -17,6 +17,7 @@
 
 ## Education
 
+* [ITC Israel](https://www.itc.tech/fellows-data-science/)
 * [fast.ai](http://www.fast.ai/)
 * [free mba](https://smart.ly/the-free-mb)
 
