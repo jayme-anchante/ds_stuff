@@ -21,14 +21,20 @@
 * [ITC Israel](https://www.itc.tech/fellows-data-science/)
 * [fast.ai](http://www.fast.ai/)
 * [free mba](https://smart.ly/the-free-mb)
+* [Galvanize EAD](https://www.galvanize.com/online/data-science-mentoring)
+
+## Gigs
+
+* [Cognitivo](cognitivo.ai)
+* Udacity Project Reviewr
 
 ## Podcasts
 
 * some top 10 [link](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
 
-## Mentoring, education
+## Competitions
 
-* [Galvanize EAD](https://www.galvanize.com/online/data-science-mentoring)
+* [Analytics Vidhya - Data Hack](https://datahack.analyticsvidhya.com/contest/all/)
 * [Kaggle](https://www.kaggle.com/learn)
 
 ## Containerization
