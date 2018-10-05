@@ -68,3 +68,10 @@
 ## Deep learning
 
 * [How to rapidly test dozens of deep learning models in Python](https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531)
+
+## Hyperparameter optimization and auto-models
+
+* [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a): LightGBM and Hyperopt optimization
+* Autosklearn
+* From Xtoy
+* Auto-keras
