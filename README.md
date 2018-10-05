@@ -26,7 +26,7 @@
 ## Gigs
 
 * [Cognitivo](cognitivo.ai)
-* Udacity Project Reviewr
+* Udacity Project Reviewer
 
 ## Podcasts
 
@@ -72,6 +72,9 @@
 ## Hyperparameter optimization and auto-models
 
 * [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a): LightGBM and Hyperopt optimization
-* Autosklearn
-* From Xtoy
-* Auto-keras
+* [auto-sklearn](https://github.com/automl/auto-sklearn)
+* [xtoy](https://github.com/kootenpv/xtoy)
+* [Auto-Keras](autokeras.com/)
+* [automl](https://pypi.org/project/automl/)
+* [auto-weka](https://github.com/automl/autoweka)
+* [automl GitHub with several repos](https://github.com/automl)
