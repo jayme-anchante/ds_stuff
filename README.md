@@ -79,6 +79,7 @@
 * [auto-sklearn](https://github.com/automl/auto-sklearn)
 * [xtoy](https://github.com/kootenpv/xtoy)
 * [Auto-Keras](autokeras.com/)
+* [talos: Hyperparameter Scanning and Optimization for Keras](https://github.com/autonomio/talos)
 * [automl](https://pypi.org/project/automl/)
 * [auto-weka](https://github.com/automl/autoweka)
 * [automl GitHub with several repos](https://github.com/automl)
