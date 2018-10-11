@@ -83,3 +83,7 @@
 * [automl](https://pypi.org/project/automl/)
 * [auto-weka](https://github.com/automl/autoweka)
 * [automl GitHub with several repos](https://github.com/automl)
+
+## Entrepreneurship
+
+* [Indie Hacker](https://www.indiehackers.com/)
