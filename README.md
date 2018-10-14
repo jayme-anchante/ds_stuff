@@ -61,6 +61,8 @@
 
 * Reinforcement Learning from scratch [link](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
 
+* [lilianweng](https://lilianweng.github.io/lil-log/)
+
 ## Loss functions
 
 * A friendly introduction to cross-entropy loss [link](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
