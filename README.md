@@ -85,6 +85,8 @@
 * [automl](https://pypi.org/project/automl/)
 * [auto-weka](https://github.com/automl/autoweka)
 * [automl GitHub with several repos](https://github.com/automl)
+* [H2O driverless ai](https://www.h2o.ai/products/h2o-driverless-ai/)
+* [DataRobot](https://www.datarobot.com/)
 
 ## Entrepreneurship
 
