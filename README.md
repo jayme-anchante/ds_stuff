@@ -75,9 +75,11 @@
 
 * Feature Engineering and Selection: A Practical Approach for Predictive Models [link](http://www.feat.engineering/)
 
-## Deep learning
+## Deep learning cross-validation
 
 * [How to rapidly test dozens of deep learning models in Python](https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531)
+
+* [Using keras scikit-learn API to cross-validate parameters](https://heartbeat.fritz.ai/introduction-to-deep-learning-with-keras-c7c3d14e1527)
 
 ## Hyperparameter optimization and auto-models
 
