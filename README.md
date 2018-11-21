@@ -2,13 +2,15 @@
 
 ## Deep learning in the cloud
 
-* https://www.floydhub.com/
-* https://www.paperspace.com/ml
-* https://www.crestle.com/
+* [FloydHub](https://www.floydhub.com/)
+* [Paperspace](https://www.paperspace.com/ml)
+* [Crestle](https://www.crestle.com/)
+* [Colaboratory](https://colab.research.google.com/)
+* [Datalore](https://datalore.io/)
 
 ## Set up GPU
 
-* https://towardsdatascience.com/tensorflow-jupyter-notebook-nvidia-diy-setup-473acfe5b0e
+* [TDS diy-setup](https://towardsdatascience.com/tensorflow-jupyter-notebook-nvidia-diy-setup-473acfe5b0e)
 * [Manjaro setup with CUDA, cuDNN](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
 * [NVIDIA script](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#runfile-overview)
 
@@ -50,30 +52,31 @@
 * [R on Kubernetes](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 ## Google alternatives
-[link](https://restoreprivacy.com/google-alternatives/)
+
+* [restoreprivacy](https://restoreprivacy.com/google-alternatives/)
 
 ## TensorFlow
-* TensorFlow.js [link](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
-* [Building mobile applications with tensorflow](https://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp)
+* [tensorflow.js](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
+* [Building mobile applications with tensorflow - book](https://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp)
 
 ## Transfer Learning
 * [Hands on transfer learning](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
 
 ## Reinforcemente Learning
 
-* RL-Adventure-2: Policy Gradients [link](https://github.com/higgsfield/RL-Adventure-2)
+* [RL-Adventure-2: Policy Gradients](https://github.com/higgsfield/RL-Adventure-2)
 
-* Reinforcement Learning from scratch [link](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+* [Reinforcement Learning from scratch](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
 
 * [lilianweng](https://lilianweng.github.io/lil-log/)
 
 ## Loss functions
 
-* A friendly introduction to cross-entropy loss [link](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+* [friendly introduction to cross-entropy loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 
 ## Feature engineering
 
-* Feature Engineering and Selection: A Practical Approach for Predictive Models [link](http://www.feat.engineering/)
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
 ## Deep learning cross-validation
 
@@ -97,3 +100,10 @@
 ## Entrepreneurship
 
 * [Indie Hacker](https://www.indiehackers.com/)
+
+## Ask HN
+
+* [Best Command-Line Applications?](https://news.ycombinator.com/item?id=18483460)
+* [Are any remote desktop solutions good enough for full-time use?](https://news.ycombinator.com/item?id=18326030)
+* [Best alternate client to web-based Gmail? Now that it sucks](https://news.ycombinator.com/item?id=18305366)
+* [Ex-FAANG developers, where are you now and why?](https://news.ycombinator.com/item?id=18192534)
