@@ -36,6 +36,10 @@
 ## Gigs
 
 * [Cognitivo](cognitivo.ai)
+
+## videos
+
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * Udacity Project Reviewer
 
 ## Podcasts
