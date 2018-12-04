@@ -36,6 +36,7 @@
 ## Gigs
 
 * [Cognitivo](cognitivo.ai)
+* [upwork](https://www.upwork.com/o/jobs/browse/?q=machine%20learning)
 
 ## videos
 
@@ -111,3 +112,5 @@
 * [Are any remote desktop solutions good enough for full-time use?](https://news.ycombinator.com/item?id=18326030)
 * [Best alternate client to web-based Gmail? Now that it sucks](https://news.ycombinator.com/item?id=18305366)
 * [Ex-FAANG developers, where are you now and why?](https://news.ycombinator.com/item?id=18192534)
+* [Online banks where I can open account worldwide?](https://news.ycombinator.com/item?id=18526090)
+* [Who wants to be hired? (December 2018)](https://news.ycombinator.com/item?id=18589704)
