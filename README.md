@@ -32,6 +32,7 @@
 * [fast.ai](http://www.fast.ai/)
 * [free mba](https://smart.ly/the-free-mb)
 * [Galvanize EAD](https://www.galvanize.com/online/data-science-mentoring)
+* [Amazon Machine Learning school](https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/)
 
 ## Gigs
 
@@ -64,15 +65,17 @@
 * [tensorflow.js](https://blog.yellowant.com/tensorflow-js-a-practical-guide-2ed58327c455)
 * [Building mobile applications with tensorflow - book](https://www.oreilly.com/data/free/building-mobile-applications-with-tensorflow.csp)
 
+## PyTorch
+
+* [Bayesian Neural Nets in PyTorch and Pyro](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
+
 ## Transfer Learning
 * [Hands on transfer learning](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
 
 ## Reinforcemente Learning
 
 * [RL-Adventure-2: Policy Gradients](https://github.com/higgsfield/RL-Adventure-2)
-
 * [Reinforcement Learning from scratch](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
-
 * [lilianweng](https://lilianweng.github.io/lil-log/)
 
 ## Loss functions
@@ -86,7 +89,6 @@
 ## Deep learning cross-validation
 
 * [How to rapidly test dozens of deep learning models in Python](https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531)
-
 * [Using keras scikit-learn API to cross-validate parameters](https://heartbeat.fritz.ai/introduction-to-deep-learning-with-keras-c7c3d14e1527)
 
 ## Hyperparameter optimization and auto-models
@@ -114,3 +116,26 @@
 * [Ex-FAANG developers, where are you now and why?](https://news.ycombinator.com/item?id=18192534)
 * [Online banks where I can open account worldwide?](https://news.ycombinator.com/item?id=18526090)
 * [Who wants to be hired? (December 2018)](https://news.ycombinator.com/item?id=18589704)
+
+## interesting libs
+
+* [requestium](https://github.com/tryolabs/requestium): requests + selenium + parsel maintaining the same session
+* [skorch](https://github.com/dnouri/skorch): PyTorch scikit-learn's style
+
+## books
+
+* [Model-base Machine Learnin](http://mbmlbook.com/toc.html)
+* [Guide to Data Mining](http://guidetodatamining.com/)
+
+## ML-pipeline
+
+* [DL project](https://spandan-madan.github.io/DeepLearningProject/)
+
+## flask
+
+* [flask mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [Deploying keras application](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
+
+## git
+
+* [learngitbranching](https://learngitbranching.js.org/)
