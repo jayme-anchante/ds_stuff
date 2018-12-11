@@ -126,6 +126,7 @@
 
 * [Model-base Machine Learnin](http://mbmlbook.com/toc.html)
 * [Guide to Data Mining](http://guidetodatamining.com/)
+* [practicalAI](https://github.com/GokuMohandas/practicalAI)
 
 ## ML-pipeline
 
