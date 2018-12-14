@@ -38,6 +38,7 @@
 
 * [Cognitivo](cognitivo.ai)
 * [upwork](https://www.upwork.com/o/jobs/browse/?q=machine%20learning)
+* [Jobs in AI and Big Data](https://ai-jobs.net/)
 
 ## videos
 
@@ -140,3 +141,8 @@
 ## git
 
 * [learngitbranching](https://learngitbranching.js.org/)
+
+## papers
+
+* [Research Papers Recommendation Platform](https://hybridize.ai/)
+* [arXiv](https://arxiv.org/)
