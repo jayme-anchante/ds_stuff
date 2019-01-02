@@ -21,6 +21,7 @@
 ## julia GPU
 
 * [julia GPU programming](https://nextjournal.com/sdanisch/julia-gpu-programming)
+* [julia ML](https://julialang.org/blog/2018/12/ml-language-compiler)
 
 ## cases
 
@@ -117,6 +118,7 @@
 * [Ex-FAANG developers, where are you now and why?](https://news.ycombinator.com/item?id=18192534)
 * [Online banks where I can open account worldwide?](https://news.ycombinator.com/item?id=18526090)
 * [Who wants to be hired? (December 2018)](https://news.ycombinator.com/item?id=18589704)
+* [How do you store photos and videos?](https://news.ycombinator.com/item?id=18770366)
 
 ## interesting libs
 
@@ -146,3 +148,32 @@
 
 * [Research Papers Recommendation Platform](https://hybridize.ai/)
 * [arXiv](https://arxiv.org/)
+
+## Privacy & Security
+
+* [PySyft](https://github.com/OpenMined/PySyft/tree/master/examples/tutorials)
+
+## Emacs
+
+* [Absolute Beginner's Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/)
+* [A CEO's Guide to Emacs](A CEO's Guide to Emacs)
+
+## "Hacking"
+
+* [Free Hotel Wifi with Python and Selenium](https://gkbrk.com/2018/12/free-hotel-wifi-with-python-and-selenium/)
+
+## DataFraming
+
+* [Apache Arrow and the "10 Things I Hate About pandas](http://wesmckinney.com/blog/apache-arrow-pandas-internals/)
+* [Vaex: Out of Core Dataframes for Python and Fast Visualization](https://towardsdatascience.com/vaex-out-of-core-dataframes-for-python-and-fast-visualization-12c102db044a)
+
+## datasets
+
+* [Rare Datasets for Computer Vision Every Machine Learning Expert Must Work With](https://hackernoon.com/rare-datasets-for-computer-vision-every-machine-learning-expert-must-work-with-2ddaf52ad862)
+
+## frameworks
+
+* tensorflow
+* keras
+* pytorch
+* [Michelangelo PyML](https://eng.uber.com/michelangelo-pyml/)
