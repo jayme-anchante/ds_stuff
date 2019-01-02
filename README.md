@@ -177,3 +177,8 @@
 * keras
 * pytorch
 * [Michelangelo PyML](https://eng.uber.com/michelangelo-pyml/)
+
+## categorical features
+
+* [Visiting: Categorical Features and Encoding in Decision Trees](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)
+* [Are categorical variables getting lost in your random forests?](https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)
