@@ -119,6 +119,7 @@
 * [Online banks where I can open account worldwide?](https://news.ycombinator.com/item?id=18526090)
 * [Who wants to be hired? (December 2018)](https://news.ycombinator.com/item?id=18589704)
 * [How do you store photos and videos?](https://news.ycombinator.com/item?id=18770366)
+* [Hacker News academy](https://hn.academy/)
 
 ## interesting libs
 
@@ -182,3 +183,18 @@
 
 * [Visiting: Categorical Features and Encoding in Decision Trees](https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931)
 * [Are categorical variables getting lost in your random forests?](https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)
+
+## text
+
+* [overview article](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da)
+* [What Kagglers are using for text classification](https://mlwhiz.com/blog/2018/12/17/text_classification/)
+* [Develop a NLP Model in Python & Deploy It with Flask, Step by Step](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
+* [fair library](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+
+## JS
+
+* [Learn JavScript online](https://learnjavascript.online/)
+
+## SSH
+
+* [SSH exemples tunnels](https://hackertarget.com/ssh-examples-tunnels/)
