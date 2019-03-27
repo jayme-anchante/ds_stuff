@@ -1,32 +1,3 @@
-# some data science stuff
-
-## Deep learning in the cloud
-
-* [FloydHub](https://www.floydhub.com/)
-* [Paperspace](https://www.paperspace.com/ml)
-* [Crestle](https://www.crestle.com/)
-* [Colaboratory](https://colab.research.google.com/)
-* [Datalore](https://datalore.io/)
-
-## Set up GPU
-
-* [TDS diy-setup](https://towardsdatascience.com/tensorflow-jupyter-notebook-nvidia-diy-setup-473acfe5b0e)
-* [Manjaro setup with CUDA, cuDNN](https://leblancfg.com/installing-cuda-cudnn-tensorflow-nvidia-gtx960.html)
-* [NVIDIA script](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#runfile-overview)
-
-## Buy GPU
-
-* [Why building your own Deep Learning Computer is 10x cheaper than AWS](https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c)
-
-## julia GPU
-
-* [julia GPU programming](https://nextjournal.com/sdanisch/julia-gpu-programming)
-* [julia ML](https://julialang.org/blog/2018/12/ml-language-compiler)
-
-## cases
-
-* [Not hotdog](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
-
 ## Education
 
 * [ITC Israel](https://www.itc.tech/fellows-data-science/)
@@ -49,15 +20,6 @@
 ## Podcasts
 
 * some top 10 [link](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c)
-
-## Competitions
-
-* [Analytics Vidhya - Data Hack](https://datahack.analyticsvidhya.com/contest/all/)
-* [Kaggle](https://www.kaggle.com/learn)
-
-## Containerization
-
-* [R on Kubernetes](http://code.markedmondson.me/r-on-kubernetes-serverless-shiny-r-apis-and-scheduled-scripts/)
 
 ## Google alternatives
 
@@ -92,27 +54,6 @@
 
 * [How to rapidly test dozens of deep learning models in Python](https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531)
 * [Using keras scikit-learn API to cross-validate parameters](https://heartbeat.fritz.ai/introduction-to-deep-learning-with-keras-c7c3d14e1527)
-
-## Hyperparameter optimization and auto-models
-
-* [Automated Machine Learning Hyperparameter Tuning in Python](https://towardsdatascience.com/automated-machine-learning-hyperparameter-tuning-in-python-dfda59b72f8a): LightGBM and Hyperopt optimization
-* [auto-sklearn](https://github.com/automl/auto-sklearn)
-* [xtoy](https://github.com/kootenpv/xtoy)
-* [Auto-Keras](autokeras.com/)
-* [talos: Hyperparameter Scanning and Optimization for Keras](https://github.com/autonomio/talos)
-* [automl](https://pypi.org/project/automl/)
-* [auto-weka](https://github.com/automl/autoweka)
-* [automl GitHub with several repos](https://github.com/automl)
-* [H2O driverless ai](https://www.h2o.ai/products/h2o-driverless-ai/)
-* [DataRobot](https://www.datarobot.com/)
-* [automl-gs](https://github.com/minimaxir/automl-gs)
-* [NNI - Neural Network Intelligence](https://github.com/Microsoft/nni) by Microsoft
-* [Ludwig](https://github.com/uber/ludwig) by Uber
-* [TPOT](https://github.com/EpistasisLab/tpot)
-
-## Entrepreneurship
-
-* [Indie Hacker](https://www.indiehackers.com/)
 
 ## Ask HN
 
