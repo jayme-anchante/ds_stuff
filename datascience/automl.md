@@ -13,6 +13,8 @@
 * [NNI - Neural Network Intelligence](https://github.com/Microsoft/nni) by Microsoft
 * [Ludwig](https://github.com/uber/ludwig) by Uber
 * [TPOT](https://github.com/EpistasisLab/tpot)
+* [auto_ml](https://github.com/ClimbsRocks/auto_ml) (UNMAINTAINED): supports tensorflow, keras, xgboost, catboost, lightgbm
+* [Xcessiv](https://github.com/reiinakano/xcessiv): A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling in Python.
 
 # Closed Source
 
