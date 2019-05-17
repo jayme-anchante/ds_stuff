@@ -1,6 +1,5 @@
 ## General
 
-* [ATM](https://github.com/HDI-Project/ATM) - Auto Tune Models: A multi-tenant, multi-data system for automated machine learning (model selection and tuning).
 * [BTB](https://github.com/HDI-Project/BTB) - Bayesian tuning and bandits: by MIT
 * [Chocolate](https://github.com/AIworx-Labs/chocolate): A fully decentralized hyperparameter optimization framework. Asynchonous framework relying on database (SQLite, MongoDB, pandas.DataFrame) to share information between workers with no master to distribute tasks, implements Bayesian and Multi-armed bandit problem optimizers
 * [GPyOpt](https://github.com/SheffieldML/GPyOpt): Gaussian Process Optimization using GPy
